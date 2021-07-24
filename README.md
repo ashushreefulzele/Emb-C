@@ -27,6 +27,8 @@ The operation of the heat control system is coded in embedded c and the working 
 
 The Testing of the heat controller is coded in emebedded C which is coded in **CodeBlocks** and the working of the project is explained on **SimulIDE simulation software**.Below shown two images where in the 1st image shows the status of the simulation when the system is OFF and the second image shows the status of the system when it is ON.
 
+## Activity 1
+
 ## **Learning Outcomes:**
 
  ####  **Software Used**
