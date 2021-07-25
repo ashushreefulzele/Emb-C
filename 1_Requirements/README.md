@@ -5,8 +5,8 @@ All the activities of this control system are performed on the microcontroller A
 ## Events and Interrupts
 | Folder  | Description  | Staus |
 |--- |--- |---|
-|ON Button|If previously ON|Sleep|
-|OFF Button|If previously OFF |WakeUp|
+|ON Button|If previously ON|OFF|
+|OFF Button|If previously OFF |ON|
 |UP Button|Enter Setting mode |---|
 |DOWN Button|Turn off heater |---|
 
