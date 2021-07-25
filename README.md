@@ -13,6 +13,17 @@ A pharmaceutical manufacturer needs to keep space temperatures in a warehouse be
 All the activities of this control system are performed on the microcontroller **Atmega328**.
 The operation of the heat control system is coded in embedded c and the working is demonstrated using a simuation software called SimulIDE.
 
+## Folder Structure
+
+| Folder  | Description  |
+|--- |--- |
+| 1_Requirements | Documents detailing requirements and research |
+| 2_Design | SimuliIDE |
+| 3_Implementation | All code and documentation  in codeblocks|
+| 4_Test Plan and Output | Documents with test plans and outputs |
+| 5_Report | Generated Report |
+| 6_ImagesandVideos | ON OFF Ouputs |
+
 ## Simulation Components
 
 #### Atmega8 microcontroller
