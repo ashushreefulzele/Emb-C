@@ -2,6 +2,8 @@
 
 # Heat Control System at Pharmaceutical Industrty
 
+# Activity 1 - completed
+
 ## **Badges**
 |Build     |  cppcheck   | Git- Inspector|
 |--------- |-------------|-------------- |
