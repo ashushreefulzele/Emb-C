@@ -29,6 +29,8 @@ The Testing of the heat controller is coded in emebedded C which is coded in **C
 
 ## Activity 1
 
+![image](https://github.com/stepin314196/Emb-C/blob/main/Activity1.PNG)
+
 ## **Learning Outcomes:**
 
  ####  **Software Used**
