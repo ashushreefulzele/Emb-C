@@ -2,6 +2,10 @@ A pharmaceutical manufacturer needs to keep space temperatures in a warehouse be
 
 All the activities of this control system are performed on the microcontroller Atmega328. The operation of the heat control system is coded in embedded c and the working is demonstrated using a simuation software called SimulIDE.
 
+## SWOT Analysis
+
+![image](https://github.com/stepin314196/Emb-C/blob/main/1_Requirements/SWOT%20Analysis.png)
+
 ## Events and Interrupts
 | Folder  | Description  | Staus |
 |--- |--- |---|
