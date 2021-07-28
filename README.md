@@ -17,9 +17,7 @@
 ## Activity 3
 
 
-## **Badges**
-|Build     |  cppcheck   | Git- Inspector|
-|--------- |-------------|-------------- |
+
 
 
 All the activities of this control system are performed on the microcontroller **Atmega328**.
