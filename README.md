@@ -8,7 +8,7 @@
 
 ## Activity 1
 
-
+![image]{https://github.com/stepin314196/Emb-C/blob/main/simulation/Activity1.%20ON.PNG}
 
 ## Activity 2
 
