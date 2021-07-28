@@ -12,7 +12,7 @@
 
 ## Activity 2
 
-
+![image](https://github.com/stepin314196/Emb-C/blob/main/simulation/Activity2.%20ON.PNG)
 
 ## Activity 3
 
