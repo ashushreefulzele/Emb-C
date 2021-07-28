@@ -1,4 +1,4 @@
-# Embedded System Project
+# Embedded System Project - Car Seat Heater
 
 
 # Activity 1 - completed
