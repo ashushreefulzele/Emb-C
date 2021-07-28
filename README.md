@@ -2,10 +2,16 @@
 
 
 # Activity 1 - completed
+# Activity 2 - completed
+# Activity 3 - completed
+
 
 ## Activity 1
 
 ![image](https://github.com/stepin314196/Emb-C/blob/main/Activity1.PNG)
+
+## Activity 2
+
 
 
 ## **Badges**
