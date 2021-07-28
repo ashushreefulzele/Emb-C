@@ -8,10 +8,13 @@
 
 ## Activity 1
 
-![image](https://github.com/stepin314196/Emb-C/blob/main/Activity1.PNG)
+
 
 ## Activity 2
 
+
+
+## Activity 3
 
 
 ## **Badges**
