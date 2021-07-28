@@ -1,6 +1,6 @@
 # Embedded System Project - Car Seat Heater
 
-## | Activity | Status |
+| Activity | Status |
    |----|----|
    | Activity 1 | completed |
    | Activity 2 | completed |
