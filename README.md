@@ -7,19 +7,6 @@
    | Activity 3 | completed |
 
 
-## Activity 1
-
-![image](https://github.com/stepin314196/Emb-C/blob/main/simulation/Activity1.%20ON.PNG)
-
-## Activity 2
-
-![image](https://github.com/stepin314196/Emb-C/blob/main/simulation/Activity2.%20ON.PNG)
-
-## Activity 3
-
-
-
-
 
 All the activities of this control system are performed on the microcontroller **Atmega328**.
 The operation of the heat control system is coded in embedded c and the working is demonstrated using a simuation software called SimulIDE.
@@ -28,12 +15,9 @@ The operation of the heat control system is coded in embedded c and the working 
 ## Simulation Components
 
 #### Atmega8 microcontroller
-#### Heat Microcontroller
 #### Button Sensor
-#### Heater
-#### Temperature Sensor
 #### Led Acctuator
-#### Display CDD
+
 
 ## Simulation
 
